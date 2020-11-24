@@ -2,6 +2,7 @@
 Using poetry, create a chess-board project
 Tools Used: numpy, matplotlib, jupyterlab, poetry
 Test Driven Development
+https://github.com/Yonatan1P/chess-board/pull/1
 
 ## Chess Board
 A class which has the following properties:
